@@ -1,1 +1,1 @@
-console.log("lam bai tap");
+console.log("bai tap buoi 1");
